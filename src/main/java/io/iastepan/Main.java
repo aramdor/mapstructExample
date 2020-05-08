@@ -11,7 +11,6 @@ public class Main {
         ApiV2 v2 = new ApiV2();
         v2.setMake("KIA");
         v2.setSeats(2);
-
         v2.setType(3);
         v2.setSafetySystems("ABS");
 
